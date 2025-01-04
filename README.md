@@ -1,14 +1,14 @@
 [![MasterHead](https://jeppbautista.files.wordpress.com/2019/03/nural-network-banner.gif)](https://kayode09.io)
 
-<h1 align="center">Hi 👋, I'm Kayode Ogunbanwo</h1>
-<h3 align="center">A passionate Data Scientist/Machine Learning Engineer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Kayode </h1>
+<h3 align="center">A seasoned Data Scientist/Machine Learning Engineer from Nigeria</h3>
 <img align="rigth" alt="Data Science" width="480" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayode09&label=Profile%20views&color=0e75b6&style=flat" alt="kayode09" /> </p>
 
-- 🌱 I’m currently learning **AI Programming with Python**
+- 🌱 I’m Experienced **Data and Analytics Engineer**
 
-- 💬 Ask me about **Machine Learning, Pandas, Numpy, Scikit-Learn, Linear Algebra, etc.**
+- 💬 Ask me about ** Data Science, Machine Learning, Pandas, Numpy, Scikit-Learn, Linear Algebra, etc.**
 
 - 📫 How to reach me **kayodeogunbanwo@gmail.com**
 
